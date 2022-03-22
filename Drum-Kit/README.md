@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://yusuf-demirci.github.io/Drum-Kit2/](https://yusuf-demirci.github.io/Drum-Kit2/)
+- Live Site URL: [https://elifyca.github.io/Drum-Kit2/](https://elifyca.github.io/Drum-Kit2/)
 
 ### Built with
 
