@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://yusuf-demirci.github.io/Parallax-Website/](https://yusuf-demirci.github.io/Parallax-Website/)
+- Live Site URL: [https://elifyca.github.io/Parallax-Website/](https://elifyca.github.io/Parallax-Website/)
 
 ### Built with
 
