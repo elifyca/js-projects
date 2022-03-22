@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-Live Site URL: https://yusuf-demirci-restaurant-page.netlify.app/
+Live Site URL: https://elifyca-restaurant-page.netlify.app/
 
 ### Built with
 
