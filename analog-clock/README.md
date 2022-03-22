@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://yusuf-demirci.github.io/analog-clock/
+- Live Site URL: https://elifyca.github.io/analog-clock/
 
 ### Built with
 
