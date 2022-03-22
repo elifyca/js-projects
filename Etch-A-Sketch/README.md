@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://yusuf-demirci.github.io/Etch-A-Sketch/](https://yusuf-demirci.github.io/Etch-A-Sketch/)
+- Live Site URL: [https://elifyca.github.io/Etch-A-Sketch/](https://elifyca.github.io/Etch-A-Sketch/)
 
 ### Built with
 
