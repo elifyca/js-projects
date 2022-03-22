@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://yusuf-demirci.github.io/clarusway_school_project/
+- Live Site URL: https://elifyca.github.io/clarusway_school_project/
 
 ### Built with
 
