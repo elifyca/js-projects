@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://yusuf-demirci.github.io/Exact_Age_Calculator/](https://yusuf-demirci.github.io/Exact_Age_Calculator/)
+- Live Site URL: [https://elifyca.io/Exact_Age_Calculator/](https://elifyca.io/Exact_Age_Calculator/)
 
 ### Built with
 
